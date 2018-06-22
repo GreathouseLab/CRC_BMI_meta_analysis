@@ -1,0 +1,14 @@
+order	SRR317085	SRR317086	SRR317087	SRR317088	SRR317089	SRR317090	SRR317091	SRR317092	SRR317093	SRR317094	SRR317095	SRR317096	SRR317097	SRR317098	SRR317099	SRR317100	SRR317101	SRR317102	SRR317103	SRR317104	SRR317105	SRR317106	SRR317107	SRR317108	SRR317109
+k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Actinomycetales	0	0	0	0	0	0	0	1.74817	0	0	0	0	0	0	7.55662	0	47.33956	2.67374	0	0	3.02553	8.80196	0	0	0
+k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales	0	0	0	7.25871	1.8129	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3.06593	0	0
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales	0	0	0	0	0	0	0	35.00287	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1.20997	0	0	0
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales	0	0	0	20.27569	89.16893	23.49494	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	40.77062	9.49333	0
+k__Bacteria|p__Firmicutes|c__Negativicutes|o__Selenomonadales	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2.8797	0	0	0
+k__Bacteria|p__Fusobacteria|c__Fusobacteriia|o__Fusobacteriales	100.0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3.71586	0	0
+k__Bacteria|p__Proteobacteria|c__Alphaproteobacteria|o__Sphingomonadales	0	38.48286	2.66051	5.57768	0	0	0	0	0	0	1.83248	9.1839	11.03004	0	0	0	6.70696	0	0	0	0	0	0	4.01801	0
+k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Burkholderiales	0	0	11.89947	0	3.30501	0	0	6.53054	0	0	0	0	0	0	8.19454	0	0	0	0	0	0	0	0	12.27916	0
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales	0	0	0	0	0.20543	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1.64693	0	0
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales	0	36.88452	40.43442	37.13113	4.71974	68.84253	62.45909	51.77852	69.19358	39.79193	77.47219	58.34538	54.23736	83.90524	83.53525	100.0	27.55284	43.4572	83.97653	100.0	26.41403	76.84453	29.8655	55.63283	66.62788
+k__Viruses|p__Viruses_noname|c__Viruses_noname|o__Caudovirales	0	0	0	0	0	0	0	0	0	28.31893	0	0	0	2.08612	0	0	0	0	0	0	0	0	0.99006	0	0
+k__Viruses|p__Viruses_noname|c__Viruses_noname|o__Viruses_noname	0	24.63263	45.0056	29.75679	0.788	7.66253	37.54091	4.9399	30.80642	31.88914	20.69533	32.47072	34.7326	14.00863	0.71358	0	18.40064	53.86906	16.02347	0	70.56044	10.26383	19.94511	18.57667	33.37212
